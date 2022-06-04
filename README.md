@@ -1,7 +1,8 @@
 # Hi there, I'm Tabish👋 
 
 ### I'm software engineer!!
-I'm software engineer with 5+ years of experience.
+Experienced Software Engineer with good history of working in I.T industry for 5+ years.
+Skilled in PYTHON, JAVASCRIPT, RDBMS, DOCKER, DS & A, MICROSERVICES
 
 ### Languages and Tools
 
