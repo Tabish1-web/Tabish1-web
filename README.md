@@ -4,7 +4,7 @@
 Experienced Software Engineer with good history of working in I.T industry for 5+ years.
 Skilled in PYTHON, JAVASCRIPT, RDBMS, DOCKER, DS & A, MICROSERVICES
 
-### Languages and Tools
+## Languages and Tools
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
@@ -12,6 +12,8 @@ Skilled in PYTHON, JAVASCRIPT, RDBMS, DOCKER, DS & A, MICROSERVICES
 <img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Python" width="26px" src="https://cdn.cdnlogo.com/logos/p/3/python.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Django" width="26px" src="https://cdn.cdnlogo.com/logos/d/3/django.svg" style="padding-right:10px;" />
+<img align="left" alt="Django" width="26px" src="https://cdn.cdnlogo.com/logos/f/50/flask.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
