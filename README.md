@@ -2,7 +2,7 @@
 
 ### I'm software engineer!!
 Experienced Software Engineer with good history of working in I.T industry for 5+ years.
-Skilled in PYTHON, JAVASCRIPT, RDBMS, DOCKER, DS & A, MICROSERVICES
+Skilled in PYTHON, JAVASCRIPT, RDBMS, No-SQL DB, DOCKER, DATA STRUCTURE & ALGORITHMS, CI/CD PIPELINES, MICROSERVICES
 
 ## Languages and Tools
 
