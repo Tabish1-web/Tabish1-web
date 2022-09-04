@@ -10,7 +10,11 @@ Skilled in PYTHON, JAVASCRIPT, RDBMS, No-SQL DB, DOCKER, DATA STRUCTURE & ALGORI
 
 ### `Working on different Microservices Architecture Projects`
 
-<img align="left" alt="Micoservices" width="200px" src="https://cdn.solace.com/wp-content/uploads/2020/05/microservices-300x300.png" style="padding-right:10px;" />
+<img align="left" alt="Micoservices" width="500px" src="https://cdn.solace.com/wp-content/uploads/2020/05/microservices-300x300.png" style="padding-right:10px;" />
+
+<br/>
+<br/>
+
 
 ## Languages and Tools
 
