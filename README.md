@@ -15,6 +15,10 @@ Skilled in PYTHON, JAVASCRIPT, RDBMS, No-SQL DB, DOCKER, DATA STRUCTURE & ALGORI
 <br/>
 <br/>
 
+### `Work on Lot of Agile Methodologies Projects`
+
+<img align="left" alt="Agile" width="500px" src="https://www.aalpha.net/wp-content/uploads/2018/10/agile-software-development.png" style="padding-right:10px;" />
+
 
 ## Languages and Tools
 
@@ -38,7 +42,7 @@ Skilled in PYTHON, JAVASCRIPT, RDBMS, No-SQL DB, DOCKER, DATA STRUCTURE & ALGORI
 <br />
 <br />
 
-<img align="left" alt="Agile" width="35px" src="https://www.aalpha.net/wp-content/uploads/2018/10/agile-software-development.png" style="padding-right:10px;" />
+<img align="left" alt="Agile" width="35px" src="" style="padding-right:10px;" />
 
 
 
