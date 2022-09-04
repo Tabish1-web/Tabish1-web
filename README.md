@@ -33,7 +33,7 @@ Skilled in PYTHON, JAVASCRIPT, RDBMS, No-SQL DB, DOCKER, DATA STRUCTURE & ALGORI
 ### `Working on different Microservices Architecture and Agile Methodologies Projects`
 
 <img align="left" alt="Micoservices" width="400px" src="https://cdn.solace.com/wp-content/uploads/2020/05/microservices-300x300.png" style="padding-right:10px;" />
-<img align="left" alt="Agile" width="400px" src="https://www.aalpha.net/wp-content/uploads/2018/10/agile-software-development.png" style="padding-right:0px;" />
+<img align="left" alt="Agile" width="400px" src="https://www.aalpha.net/wp-content/uploads/2018/10/agile-software-development.png" style="margin-right:10px;" />
 
 
 <br />
