@@ -2,7 +2,7 @@
 
 ### `I'm software engineer!!`
 `Experienced Software Engineer with good history of working in I.T industry for 5+ years.
-Skilled in PYTHON, JAVASCRIPT, RDBMS, No-SQL DB, DOCKER, DATA STRUCTURE & ALGORITHMS, CI/CD PIPELINES, MICROSERVICES, AGILE Methodologies`
+Skilled in PYTHON, JAVASCRIPT, RDBMS, No-SQL DB, DOCKER, DATA STRUCTURE & ALGORITHMS, CI/CD PIPELINES`
 
 #### `If debugging is the process of removing software bugs, then programming must be the process of putting them in.`
 
