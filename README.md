@@ -12,8 +12,9 @@ Skilled in PYTHON, JAVASCRIPT, RDBMS, No-SQL DB, DOCKER, DATA STRUCTURE & ALGORI
 <img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Python" width="26px" src="https://cdn.cdnlogo.com/logos/p/3/python.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="FastAPI" width="35px" src="https://pbs.twimg.com/profile_images/1417542931209199621/fWMEIB5j_400x400.jpg" style="padding-right:10px;" />
 <img align="left" alt="Django" width="26px" src="https://cdn.cdnlogo.com/logos/d/3/django.svg" style="padding-right:10px;" />
-<img align="left" alt="Django" width="26px" src="https://cdn.cdnlogo.com/logos/f/50/flask.svg" style="padding-right:10px;" />
+<img align="left" alt="Flask" width="26px" src="https://cdn.cdnlogo.com/logos/f/50/flask.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
@@ -22,7 +23,6 @@ Skilled in PYTHON, JAVASCRIPT, RDBMS, No-SQL DB, DOCKER, DATA STRUCTURE & ALGORI
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Docker" width="35px" src="https://cdn.cdnlogo.com/logos/d/41/docker.svg" style="padding-right:10px;" />
-
 
 <br />
 <br />
