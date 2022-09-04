@@ -1,8 +1,8 @@
-# Hi there, I'm Tabish👋 
+# `Hi there, I'm Tabish👋` 
 
-### I'm software engineer!!
+### `I'm software engineer!!`
 Experienced Software Engineer with good history of working in I.T industry for 5+ years.
-Skilled in PYTHON, JAVASCRIPT, RDBMS, No-SQL DB, DOCKER, DATA STRUCTURE & ALGORITHMS, CI/CD PIPELINES, MICROSERVICES
+Skilled in PYTHON, JAVASCRIPT, RDBMS, No-SQL DB, DOCKER, DATA STRUCTURE & ALGORITHMS, CI/CD PIPELINES, MICROSERVICES, AGILE Methodologies
 
 ## Languages and Tools
 
