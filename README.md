@@ -4,7 +4,7 @@
 ## <sup><sub> Experienced Software Engineer with good history of working in I.T industry for 5+ years. Skilled in PYTHON, JAVASCRIPT, RDBMS, No-SQL DB, DOCKER, DATA STRUCTURE & ALGORITHMS, CI/CD PIPELINES </sub></sup>
 
 ### <sup><sub> *If debugging is the process of removing software bugs, then programming must be the process of putting them in.* </sub></sup>
-### <sup><sub> *LOVE DEBUGGING* ... </sub></sup>
+## <sup><sub> *LOVE DEBUGGING* ... </sub></sup>
 
 #### `LANGUAGES AND TOOLS`
 
@@ -30,8 +30,9 @@
 
 ## <sup><sub> Working on different projects which based on Microservices Architecture and Agile Methodologies. </sub></sup>
 
-<img align="left" alt="Micoservices" width="40%" src="https://cdn.solace.com/wp-content/uploads/2020/05/microservices-300x300.png" style="padding-right:10px;" />
-<img align="left" alt="Agile" width="40%" src="https://www.aalpha.net/wp-content/uploads/2018/10/agile-software-development.png" style="margin-right:10px;" />
+<img align="left" alt="Micoservices" width="30%" src="https://cdn.solace.com/wp-content/uploads/2020/05/microservices-300x300.png" style="padding-right:10px;" />
+<img align="left" width="30%" />
+<img align="left" alt="Agile" width="30%" src="https://www.aalpha.net/wp-content/uploads/2018/10/agile-software-development.png" style="margin-right:10px;" />
 
 
 <br />
