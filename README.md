@@ -6,7 +6,7 @@
 ### <sup><sub> *If debugging is the process of removing software bugs, then programming must be the process of putting them in.* </sub></sup>
 ### <sup><sub> *LOVE DEBUGGING* ... </sub></sup>
 
-#### `Languages and Tools`
+#### `LANGUAGES AND TOOLS`
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
@@ -28,10 +28,10 @@
 <br />
 <br />
 
-#### Working on different projects which based on Microservices Architecture and Agile Methodologies
+## <sup><sub> Working on different projects which based on Microservices Architecture and Agile Methodologies. </sub></sup>
 
 <img align="left" alt="Micoservices" width="40%" src="https://cdn.solace.com/wp-content/uploads/2020/05/microservices-300x300.png" style="padding-right:10px;" />
-<img align="left" alt="Agile" width="50%" src="https://www.aalpha.net/wp-content/uploads/2018/10/agile-software-development.png" style="margin-right:10px;" />
+<img align="left" alt="Agile" width="40%" src="https://www.aalpha.net/wp-content/uploads/2018/10/agile-software-development.png" style="margin-right:10px;" />
 
 
 <br />
