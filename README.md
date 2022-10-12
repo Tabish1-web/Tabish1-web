@@ -6,7 +6,7 @@ Skilled in PYTHON, JAVASCRIPT, RDBMS, No-SQL DB, DOCKER, DATA STRUCTURE & ALGORI
 
 #### `If debugging is the process of removing software bugs, then programming must be the process of putting them in.`
 
-`Love Debugging ...`
+<sup><sub>LOVE DEBUGGING ...</sub></sup>
 
 ## Languages and Tools
 
