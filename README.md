@@ -30,9 +30,8 @@
 
 ## <sup><sub> Working on different projects which based on Microservices Architecture and Agile Methodologies. </sub></sup>
 
-<img align="left" alt="Micoservices" width="30%" src="https://cdn.solace.com/wp-content/uploads/2020/05/microservices-300x300.png" style="padding-right:10px;" />
-<img align="left" width="30%" />
-<img align="left" alt="Agile" width="30%" src="https://www.aalpha.net/wp-content/uploads/2018/10/agile-software-development.png" style="margin-right:10px;" />
+<img align="left" alt="Micoservices" width="40%" src="https://cdn.solace.com/wp-content/uploads/2020/05/microservices-300x300.png" style="padding-right:50px;" />
+<img align="left" alt="Agile" width="40%" src="https://www.aalpha.net/wp-content/uploads/2018/10/agile-software-development.png" style="margin-right:10px;" />
 
 
 <br />
@@ -51,7 +50,7 @@
 <br />
 <br />
 
----
+
 <details>
   <summary>:zap: GitHub Stats</summary>
 
