@@ -5,7 +5,7 @@ Experienced Software Engineer with good history of working in I.T industry for 5
 Skilled in PYTHON, JAVASCRIPT, RDBMS, No-SQL DB, DOCKER, DATA STRUCTURE & ALGORITHMS, CI/CD PIPELINES
 
 ### <sup><sub>If debugging is the process of removing software bugs, then programming must be the process of putting them in.</sub></sup>
-### <sup><sub>LOVE DEBUGGING ...</sub></sup>
+### <sup><sub> *LOVE DEBUGGING* ... </sub></sup>
 
 ## Languages and Tools
 
